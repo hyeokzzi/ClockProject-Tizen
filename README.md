@@ -10,3 +10,6 @@
 - RSS 서비스를 이용한 날씨
 - 날씨 데이터를 통한 배경 변경
 - 시간 간격에 따른 배경 변경
+
+# 구현 영상
+[![Video Label](http://img.youtube.com/vi/EEMvsfiLxqg/0.jpg)](https://youtu.be/EEMvsfiLxqg)
