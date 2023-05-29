@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TizenXamlApp1.MainPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <!--배경화면-->
+            <Image x:Name ="background1" Opacity="0.6"  Source = "ClearAfternoon1.jpg" WidthRequest="1920" HeightRequest="1080" Aspect="AspectFill"  />
+            <Image x:Name ="background2" Opacity="0.6" Source = "ClearAfternoon2.jpg" WidthRequest="1920" HeightRequest="1080" Aspect="AspectFill" />
+            <Image x:Name ="background3" Opacity="0.6" Source = "ClearAfternoon3.jpg" WidthRequest="1920" HeightRequest="1080" Aspect="AspectFill" />
+            
+            
+            <!--디지털 시계부-->
+            <StackLayout Orientation="Horizontal" AbsoluteLayout.LayoutBounds="180, 400, 1300, 100">
+                <Label x:Name="today" Text ="date" TextColor="black" FontAttributes="Bold" FontSize="100"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" AbsoluteLayout.LayoutBounds="180, 550, 1150, 300">
+                <Label x:Name="TT" Text="AM" FontSize="75" TextColor="black" FontAttributes="Bold"/>
+                <Label x:Name="HH" Text="00" FontSize="300" TextColor="black" FontAttributes="Bold" />
+                <Label x:Name="change_text" Text=":" FontSize="300" TextColor="black" FontAttributes="Bold"/>
+                <Label x:Name="MM" Text="00" FontSize="300" TextColor="black" FontAttributes="Bold"/>
+                <Label x:Name="SS" Text="00" FontSize="150" TranslationY="10" TextColor="black" FontAttributes="Bold"/>
+            </StackLayout>
+            
+            <!--아날로그 시계부-->
+            <Image Source="Analog_clock.png" AbsoluteLayout.LayoutBounds="25, 25, 300, 300"/>
+            <BoxView x:Name="Analog_clock_sec" BackgroundColor="Red" AbsoluteLayout.LayoutBounds="174,45,3,160" AnchorY="0.8"/>
+            <BoxView x:Name="Analog_clock_min" BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="174,62,5,110" AnchorY="1"/>
+            <BoxView x:Name="Analog_clock_hour" BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="173,105,10,70" AnchorY="1"/>
+
+            
+            <!--현재날씨-->
+            <StackLayout Orientation="Vertical" AbsoluteLayout.LayoutBounds="500, 25, 275, 315">
+                <Label x:Name ="current_w" Text ="현재 날씨"  TextColor="black" FontSize="30" HorizontalOptions="Center" FontAttributes="Bold"/>
+                <Image x:Name ="current_weather_image" Source="Clear.png" WidthRequest="225" HeightRequest="225" />
+                <Label x:Name ="current_weather_text" Text ="00"  TextColor="black" FontSize="30" HorizontalOptions="Center" FontAttributes="Bold"/>
+            </StackLayout>
+
+            <!--시간에 따른 날씨 -->
+            <StackLayout Orientation="Horizontal" AbsoluteLayout.LayoutBounds="800, 25, 600, 250">
+                <!--12시간 뒤 날씨-->
+                <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand" >
+                    <Label x:Name="h_12" Text ="12시간 뒤" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="after_12" Source="None.JPG" WidthRequest="150" HeightRequest="150" HorizontalOptions="CenterAndExpand" />
+                    <Label x:Name="seq0" Text ="00" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                </StackLayout>
+
+                <!--24시간 뒤 날씨-->
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+                    <Label x:Name="h_24" Text ="24시간 뒤" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="after_24" Source="None.JPG" WidthRequest="150" HeightRequest="150" HorizontalOptions="CenterAndExpand" />
+                    <Label x:Name="seq1" Text ="00" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                </StackLayout>
+
+                <!--36시간 뒤 날씨-->
+                <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+                    <Label x:Name="h_36" Text ="36시간 뒤" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="after_36" Source="None.JPG" WidthRequest="150" HeightRequest="150" HorizontalOptions="CenterAndExpand" />
+                    <Label x:Name="seq2" Text ="00" TextColor="black" FontSize="25" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                </StackLayout>
+            </StackLayout>
+
+
+
+            <Image x:Name="logo" Source="EPL.png" WidthRequest="400" HeightRequest="1040" AbsoluteLayout.LayoutBounds="1500, -20, 450, 1120" />
+            <!--    축구 정보   -->
+            <StackLayout Orientation="Vertical" AbsoluteLayout.LayoutBounds="1510, 200, 410, 850">
+                <Label Text ="축구 경기 결과" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                <!--제 1경기-->
+                <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                    <Image x:Name="home_team_1" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                    <Label x:Name="home_score_1" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Label x:Name="away_score_1" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="away_team_1" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                </StackLayout>
+                <!--제 2경기-->
+                <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                    <Image x:Name="home_team_2" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                    <Label x:Name="home_score_2" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Label x:Name="away_score_2" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="away_team_2" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                </StackLayout>
+                <!--제 3경기-->
+                <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                    <Image x:Name="home_team_3" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                    <Label x:Name="home_score_3" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Label x:Name="away_score_3" Text ="00" TextColor="white" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+                    <Image x:Name="away_team_3" Source="None.JPG" WidthRequest="150" HeightRequest="150" />
+                </StackLayout>
+            </StackLayout>
+
+
+            <!--뉴스-->
+            <BoxView Color="Black" AbsoluteLayout.LayoutBounds="0, 1020, 1920, 60"/>
+            <Label x:Name="slide_news" Text="slide_news" FontSize="50" TextColor="White" BackgroundColor="DarkBlue" FontAttributes="Bold" AbsoluteLayout.LayoutBounds="0, 1020"/>
+
+
+
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

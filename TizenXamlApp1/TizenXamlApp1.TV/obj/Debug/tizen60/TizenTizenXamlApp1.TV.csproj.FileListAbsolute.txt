@@ -1,0 +1,91 @@
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\TizenXamlApp1.TV.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\TizenXamlApp1.TV.pdb
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Microsoft.CodeAnalysis.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\SkiaSharp.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\SkiaSharp.Views.Tizen.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\TizenHotReload.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\TizenXamlApp1.dll
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\TizenXamlApp1.pdb
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\TizenXamlApp1.TV.deps.json
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\bin\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Analog_clock.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Arsenal.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Aston Villa.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Bournemouth.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Brentford.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Brighton and Hove Albion.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Chelsea.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\clean.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Clear.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearAfternoon1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearAfternoon2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearAfternoon3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearNight1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearNight2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\ClearNight3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Cloudy.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyAfternoon1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyAfternoon2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyAfternoon3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyNight1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyNight2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\CloudyNight3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Crystal Palace.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\EPL.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Everton.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Fullham.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Leeds United.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Leicester City.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Liverpool.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Manchester City.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Manchester United.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Newcastle United.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\None.JPG
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Nottingham Forest.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Rain.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainAfternoon1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainAfternoon2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainAfternoon3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainNight1.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainNight2.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\RainNight3.jpg
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Southampton.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Tottenham Hotspur.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\West Ham United.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\Wolverhampton Wanderers.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\res\경기없음.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\shared\res\TizenXamlApp1.TV.png
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\tpkroot\tizen-manifest.xml
+C:\Users\qnekv\Desktop\모바일sw\project\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Debug\tizen60\org.tizen.example.TizenXamlApp1.TV-1.0.0.tpk
