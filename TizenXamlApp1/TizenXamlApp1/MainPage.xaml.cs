@@ -277,7 +277,7 @@ namespace TizenXamlApp1
                 RequestUri = new Uri("https://odds.p.rapidapi.com/v4/sports/soccer_epl/scores?daysFrom=3"),
                 Headers =
                 {
-                    { "X-RapidAPI-Key", "60ea6c388fmsh61438a45047d154p154a13jsnee5349dd8ff2" },
+                    { "X-RapidAPI-Key", "ㅡㅡㅡㅡrapid api에서 받은 key 넣는 곳ㅡㅡㅡ" },
                     { "X-RapidAPI-Host", "odds.p.rapidapi.com" },
                 },
             };
